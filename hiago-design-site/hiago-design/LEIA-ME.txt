@@ -1,0 +1,12 @@
+HIAGO DESIGN — INSTRUÇÕES
+
+1. Abra index.html no navegador. Mantenha index.html, servicos.html, trabalhos.html e style.css na mesma pasta.
+2. LOGO: coloque sua logo em imagens/Design sem nome - 2026-11-04T105549.562.png (nome original do seu HTML), ou altere o src no index.html.
+3. FOTO PESSOAL: coloque sua foto em imagens/minha-foto.jpg.
+4. PORTFÓLIO: coloque seis imagens em trabalhos/ com os nomes trabalho-01.jpg até trabalho-06.jpg. Para adicionar mais, copie um bloco <figure class="work"> no arquivo trabalhos.html e ajuste o nome da imagem e a legenda.
+5. SOBRE MIM: edite os parágrafos dentro de <div class="about-text"> em trabalhos.html.
+6. WHATSAPP: substitua 5511999999999 pelo número verdadeiro, com DDI 55 e DDD, nos três HTMLs.
+7. INSTAGRAM: o endereço configurado é https://www.instagram.com/hiagodesign__/ . Confira se esse é o usuário correto.
+8. Para publicar, envie todos os arquivos e pastas juntos para a hospedagem.
+
+OBS.: O site estático mostra imagens adicionadas à pasta. Para permitir que visitantes enviem fotos e elas fiquem publicadas permanentemente, é necessário um sistema de armazenamento/backend.
